@@ -13,10 +13,10 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <h1 className="text-2xl">Hello world</h1>
+        <h1 className="text-2xl">Hello world from Sandeep and Vaibhav</h1>
         <p className="text-sm">
           This is the best website builder app you can find because it is made
-          with love❤️
+          with love and it is free.
         </p>
       </main>
     </>
